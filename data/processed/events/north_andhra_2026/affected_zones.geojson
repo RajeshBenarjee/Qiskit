@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "CENSUS_581561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.126,
+          18.336
+        ]
+      },
+      "properties": {
+        "village_code": "581561",
+        "name": "Kalingapatnam",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "population": 4470,
+        "households": 1148,
+        "utm_easting": 830426.5400677476,
+        "utm_northing": 2030197.5879543186,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 210.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.108,
+          18.318
+        ]
+      },
+      "properties": {
+        "village_code": "581562",
+        "name": "Bandaruvani Peta",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "population": 1842,
+        "households": 465,
+        "utm_easting": 828556.4230239103,
+        "utm_northing": 2028171.0807712267,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 209.04
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.115,
+          18.349
+        ]
+      },
+      "properties": {
+        "village_code": "581555",
+        "name": "Vatsavalasa",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "population": 2115,
+        "households": 530,
+        "utm_easting": 829238.2210174331,
+        "utm_northing": 2031617.6687262785,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 209.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.072,
+          18.361
+        ]
+      },
+      "properties": {
+        "village_code": "581549",
+        "name": "Ampolu",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "population": 3210,
+        "households": 810,
+        "utm_easting": 824667.3528825511,
+        "utm_northing": 2032869.5076441758,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 205.23
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.05,
+          18.341
+        ]
+      },
+      "properties": {
+        "village_code": "581552",
+        "name": "Salihundam",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "population": 2780,
+        "households": 690,
+        "utm_easting": 822377.645340495,
+        "utm_northing": 2030614.9753308129,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 202.89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581558",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.081,
+          18.324
+        ]
+      },
+      "properties": {
+        "village_code": "581558",
+        "name": "Tonangi",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "population": 1650,
+        "households": 412,
+        "utm_easting": 825688.6896881725,
+        "utm_northing": 2028787.1598338378,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 206.18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.925,
+          18.285
+        ]
+      },
+      "properties": {
+        "village_code": "581502",
+        "name": "Singupuram",
+        "mandal": "Srikakulam",
+        "district": "Srikakulam",
+        "population": 3890,
+        "households": 985,
+        "utm_easting": 809255.5540883248,
+        "utm_northing": 2024195.4881739395,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 189.76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.182,
+          18.401
+        ]
+      },
+      "properties": {
+        "village_code": "581450",
+        "name": "Polaki Coastal",
+        "mandal": "Polaki",
+        "district": "Srikakulam",
+        "population": 2930,
+        "households": 740,
+        "utm_easting": 836224.6138694149,
+        "utm_northing": 2037500.8642637318,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 216.96
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581420",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.588,
+          18.884
+        ]
+      },
+      "properties": {
+        "village_code": "581420",
+        "name": "Baruva",
+        "mandal": "Sompeta",
+        "district": "Srikakulam",
+        "population": 4620,
+        "households": 1180,
+        "utm_easting": 878094.2179777874,
+        "utm_northing": 2091827.530368166,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 266.55
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CENSUS_581410",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.345,
+          18.572
+        ]
+      },
+      "properties": {
+        "village_code": "581410",
+        "name": "Bhavanapadu",
+        "mandal": "Santhabommali",
+        "district": "Srikakulam",
+        "population": 3410,
+        "households": 870,
+        "utm_easting": 853112.2155061981,
+        "utm_northing": 2056756.8505355427,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "Office of the Registrar General & Census Commissioner, India / Directorate of Census Operations, AP",
+          "source_url": "https://censusindia.gov.in/census.website/data/census-tables",
+          "retrieval_date": "2026-09-24T13:37:03.514108+00:00",
+          "dataset_version": "Census-2011-PCA-AP-VillageDirectory",
+          "license": "Open Government Data License - India (NDSAP)",
+          "original_or_derived": "ORIGINAL_CENSUS_PCA_METRIC_PROJECTED",
+          "confidence_limitations": "Official 2011 Primary Census Abstract baseline; coordinates verified against district village directories."
+        },
+        "dynamic_storm_risk": 0.1,
+        "dist_to_landfall_km": 235.47
+      }
+    }
+  ]
+}

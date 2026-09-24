@@ -1,0 +1,1228 @@
+{
+  "type": "FeatureCollection",
+  "name": "ap_shelters_statewide",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.11756667,
+          14.11338053
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.86",
+        "name": "Kothapatnam",
+        "mandal": "Kota",
+        "district": "Tirupati",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 404748.90377029125,
+        "utm_northing": 1560444.5568846802,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.09696316,
+          14.27324223
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.177",
+        "name": "Chalivendra ST Colony",
+        "mandal": "Muthukur",
+        "district": "S.P.S.Nellore",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 402593.1087152182,
+        "utm_northing": 1578135.1466009328,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.14152696,
+          14.57394074
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.181",
+        "name": "Utukuru",
+        "mandal": "Vidvaluru",
+        "district": "S.P.S.Nellore",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 407524.49117060035,
+        "utm_northing": 1611377.1569731156,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.13888056,
+          14.69663054
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.103",
+        "name": "Pedapalem of Ponnapudi",
+        "mandal": "Vidvaluru",
+        "district": "S.P.S.Nellore",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 407290.93794783344,
+        "utm_northing": 1624949.186782199,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.03663889,
+          15.12009999
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.119",
+        "name": "Chakicherla",
+        "mandal": "Ulavapadu",
+        "district": "S.P.S.Nellore",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 396485.276622782,
+        "utm_northing": 1671836.666894987,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.05477778,
+          15.14869721
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.120",
+        "name": "Alagayyapalem of Karedu",
+        "mandal": "Ulavapadu",
+        "district": "S.P.S.Nellore",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 398448.1117428369,
+        "utm_northing": 1674991.5889182126,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.06274722,
+          15.17401943
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.122",
+        "name": "Kothapallipalem  of Karedu",
+        "mandal": "Ulavapadu",
+        "district": "S.P.S.Nellore",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 399316.3765998549,
+        "utm_northing": 1677789.027977443,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0300994,
+          15.1595533
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.166",
+        "name": "Balakotaiah sangam",
+        "mandal": "Ulavapadu",
+        "district": "S.P.S.Nellore",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 395801.8367859206,
+        "utm_northing": 1676204.068187278,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.07320833,
+          15.27422777
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.117",
+        "name": "Pakala Main",
+        "mandal": "S. Konda",
+        "district": "Prakasam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 400487.32754408877,
+        "utm_northing": 1688869.2071740997,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.08162652,
+          15.26835359
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.165",
+        "name": "Chellammagaripattapupalem",
+        "mandal": "S. Konda",
+        "district": "Prakasam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 401388.54019898444,
+        "utm_northing": 1688215.57399809,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17532778,
+          15.44285832
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.110",
+        "name": "K.Pallipalem",
+        "mandal": "Kothapatnam",
+        "district": "Prakasam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 411524.0417771333,
+        "utm_northing": 1707478.6025915297,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18211944,
+          15.46915832
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.112",
+        "name": "Padarthy",
+        "mandal": "Kothapatnam",
+        "district": "Prakasam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 412263.80436459184,
+        "utm_northing": 1710385.0917088045,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16977778,
+          15.45123888
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.113",
+        "name": "Rangaiah Palem",
+        "mandal": "Kothapatnam",
+        "district": "Prakasam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 410932.14552676294,
+        "utm_northing": 1708407.9406595263,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.50843889,
+          15.840925
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.63",
+        "name": "Suryalanka",
+        "mandal": "Bapatla",
+        "district": "Bapatla",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 447365.14199590456,
+        "utm_northing": 1751401.1494777803,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60980338,
+          15.89927561
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.154",
+        "name": "Chinapuluguvaripalem",
+        "mandal": "Karlapalem",
+        "district": "Bapatla",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 458231.1239072653,
+        "utm_northing": 1757832.8207724777,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.27113611,
+          16.30218333
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.72",
+        "name": "Pedapatnam",
+        "mandal": "Machilipatnam",
+        "district": "Krishna",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 528965.3690001025,
+        "utm_northing": 1802380.9213868494,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.41017503,
+          16.34946412
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.217",
+        "name": "Urlagondtippa",
+        "mandal": "Kruthivennu",
+        "district": "Krishna",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 543808.4981786669,
+        "utm_northing": 1807635.9223402045,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.72741944,
+          16.32782778
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.29",
+        "name": "Pallipalem",
+        "mandal": "Sakinetipally",
+        "district": "Kona Seema",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 577701.3523010449,
+        "utm_northing": 1805337.0852262096,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.67760556,
+          16.35059722
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.131",
+        "name": "Sardupallipalem of Vemulaveedhi",
+        "mandal": "Narasapur",
+        "district": "West Godavari",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 572371.7438807087,
+        "utm_northing": 1807837.5998708778,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.68705278,
+          16.34496667
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.132",
+        "name": "Chinmyavani Lanka",
+        "mandal": "Narasapur",
+        "district": "West Godavari",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 573382.8984693013,
+        "utm_northing": 1807218.104587078,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.69730278,
+          16.33956389
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.134",
+        "name": "Veemuladeevi",
+        "mandal": "Narasapur",
+        "district": "West Godavari",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 574479.7751982633,
+        "utm_northing": 1806624.14484556,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.69123175,
+          16.3527843
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.188",
+        "name": "Kapulakodapa",
+        "mandal": "Narasapur",
+        "district": "West Godavari",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 573826.3281802456,
+        "utm_northing": 1808084.4398267597,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.86358889,
+          16.40141944
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.30",
+        "name": "Padamatipalem",
+        "mandal": "Malkipuram",
+        "district": "Kona Seema",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 592212.9587564272,
+        "utm_northing": 1813535.2280270064,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.59741667,
+          17.29645001
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.1",
+        "name": "Gajapatinagaram",
+        "mandal": "Payakaraopeta",
+        "district": "Anakapalli",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 669782.8433678384,
+        "utm_northing": 1913054.1077639507,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.61363405,
+          17.29686104
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.138",
+        "name": "Pentakota",
+        "mandal": "Payakaraopeta",
+        "district": "Anakapalli",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 671506.5168256925,
+        "utm_northing": 1913113.9616624126,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.89695209,
+          17.47710813
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.192",
+        "name": "Panchadarla",
+        "mandal": "Rambilli",
+        "district": "Anakapalli",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 701430.2193615097,
+        "utm_northing": 1933338.0511877304,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.625217,
+          18.05390002
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.140",
+        "name": "Barripeta H\\O Pathiwada",
+        "mandal": "Pusapatirega",
+        "district": "Vizianagaram",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 777906.8947157635,
+        "utm_northing": 1998122.9333835526,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.443072+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.76104444,
+          18.13989724
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.36",
+        "name": "Jagannadapuram",
+        "mandal": "Ranastalam",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 792151.8282625382,
+        "utm_northing": 2007856.1514018478,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.73761944,
+          18.12625835
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.37",
+        "name": "Ch. Kovvada",
+        "mandal": "Ranastalam",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 789694.11978964,
+        "utm_northing": 2006308.695961519,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.76794722,
+          18.16692502
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.49",
+        "name": "Ragupalem",
+        "mandal": "Laveru",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 792837.5997184835,
+        "utm_northing": 2010860.267935954,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.78354167,
+          18.14867502
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.52",
+        "name": "Kotha Mukkam",
+        "mandal": "Ranastalam",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 794519.1028694089,
+        "utm_northing": 2008864.1475909061,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.87598,
+          18.19204002
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.142",
+        "name": "Kotha Dibbalapalem",
+        "mandal": "Etcherla",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 804231.0751203191,
+        "utm_northing": 2013817.5612810191,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.87342,
+          18.18956002
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.143",
+        "name": "Rallapeta",
+        "mandal": "Etcherla",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 803964.389143021,
+        "utm_northing": 2013538.6499701706,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.86299216,
+          18.1960961
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.213",
+        "name": "Bhagiradhapuram",
+        "mandal": "Etcherla",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 802849.2327247022,
+        "utm_northing": 2014245.2588752168,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.00516635,
+          18.27033041
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.211",
+        "name": "srikurmamam",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 817764.3702978897,
+        "utm_northing": 2022708.4913586213,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.11685278,
+          18.33376392
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.44",
+        "name": "Calingapatnam",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 829463.1257051507,
+        "utm_northing": 2029933.2913587308,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.12646111,
+          18.32535836
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.46",
+        "name": "Bandravanipeta",
+        "mandal": "Gara",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 830495.5700931908,
+        "utm_northing": 2029019.6191251958,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Andhra-CycloneShelters.60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.43073889,
+          18.66848892
+        ]
+      },
+      "properties": {
+        "shelter_id": "Andhra-CycloneShelters.60",
+        "name": "MN Peta",
+        "mandal": "Vajrapukothuru",
+        "district": "Srikakulam",
+        "facility_type": "DEDICATED_MPCS",
+        "capacity": 1000,
+        "utm_easting": 861967.1004797877,
+        "utm_northing": 2067618.8727549883,
+        "utm_crs": "EPSG:32644",
+        "provenance": {
+          "source_entity": "APSAC / APSDMA / NCRMP Phase-I",
+          "source_url": "https://apsac.ap.gov.in/geoserver/wms",
+          "retrieval_date": "2026-09-24T13:35:55.444097+00:00",
+          "dataset_version": "APSAC-WMS-2024-Rev2026",
+          "license": "Government of Andhra Pradesh Administrative and Disaster Planning Use",
+          "original_or_derived": "ORIGINAL_COORDINATES_DERIVED_STANDARD_CAPACITY",
+          "confidence_limitations": "Dedicated Multipurpose Cyclone Shelter (MPCS) constructed under NCRMP Phase-I/APSDMA; 1000-person architectural design standard.",
+          "capacity_provenance": "OFFICIAL_DESIGN_STANDARD"
+        }
+      }
+    }
+  ]
+}

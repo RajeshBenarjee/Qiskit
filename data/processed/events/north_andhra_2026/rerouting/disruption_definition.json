@@ -1,0 +1,31 @@
+{
+  "event_type": "CONTROLLED_DISRUPTION_EXPERIMENT",
+  "description": "Simulated flood inundation and storm surge breach along coastal road feeder link",
+  "disrupted_edge": [
+    "HAB_581561",
+    "SHELTER_Andhra-CycloneShelters.44"
+  ],
+  "edge_attributes_before": {
+    "length_m": 999.01,
+    "road_class": "tertiary",
+    "speed_kph": 30.0,
+    "travel_time_sec": 119.88,
+    "bridge": false,
+    "mean_elevation_m": 9.0,
+    "baseline_flood_risk": 0.1,
+    "disrupted": false,
+    "provenance": "OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]",
+    "risk_weighted_cost": 143.86
+  },
+  "trigger_cause": "Storm surge coastal inundation (elevation < 3.5m MSL) during Kalingapatnam landfall",
+  "simulation_timestamp": "2026-09-24T14:13:54Z",
+  "provenance": {
+    "source_entity": "Q-EVAC Controlled Experiment Engine",
+    "source_url": "internal://experiment/controlled_disruption",
+    "retrieval_date": "2026-09-24T14:13:54.424814+00:00",
+    "dataset_version": "v1.0-Controlled-Simulation",
+    "license": "Research / Hackathon Benchmark Only",
+    "original_or_derived": "SIMULATED_CONTROLLED_ROAD_CUT",
+    "confidence_limitations": "Explicitly simulated controlled disruption; NOT an observed real-world road closure."
+  }
+}

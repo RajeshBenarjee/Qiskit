@@ -1,0 +1,31 @@
+{
+  "event_id": "EVENT_NORTH_ANDHRA_DEEP_DEPRESSION_2026",
+  "colloquial_media_name": "Arnab",
+  "official_imd_classification": "Deep Depression",
+  "landfall_point": {
+    "location_name": "Near Kalingapatnam, Srikakulam District, Andhra Pradesh",
+    "longitude": 84.13,
+    "latitude": 18.33,
+    "utm_easting": 619515.65,
+    "utm_northing": 2027138.8
+  },
+  "landfall_time_ist": "2026-09-23T23:30:00+05:30 to 2026-09-24T02:30:00+05:30",
+  "max_sustained_surface_wind_kph": "55-65 km/h gusting to 75 km/h",
+  "central_pressure_hpa": 994,
+  "hazard_impact_radius_meters": 45000.0,
+  "spatial_bounding_box": {
+    "min_lon": 83.85,
+    "min_lat": 18.2,
+    "max_lon": 84.35,
+    "max_lat": 18.55
+  },
+  "provenance": {
+    "source_entity": "India Meteorological Department (IMD) / RSMC New Delhi",
+    "source_url": "https://mausam.imd.gov.in/",
+    "retrieval_date": "2026-09-24T13:39:23.425934+00:00",
+    "dataset_version": "IMD-Special-Tropical-Weather-Outlook-Sept-2026",
+    "license": "Open Government Data License - India",
+    "original_or_derived": "OFFICIAL_GOVERNMENT_METEOROLOGICAL_BULLETIN",
+    "confidence_limitations": "Officially verified IMD Deep Depression; sustained winds 55-65 km/h did not reach 63 km/h cyclonic storm threshold."
+  }
+}

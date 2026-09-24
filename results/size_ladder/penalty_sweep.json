@@ -1,0 +1,74 @@
+[
+  {
+    "lambda_assignment": 50.0,
+    "lambda_capacity": 20.0,
+    "qaoa_objective": 6123.87,
+    "optimality_gap": 69.99,
+    "feasible_probability": 0.0029,
+    "runtime_sec": 0.9587
+  },
+  {
+    "lambda_assignment": 50.0,
+    "lambda_capacity": 50.0,
+    "qaoa_objective": 6142.99,
+    "optimality_gap": 89.11,
+    "feasible_probability": 0.0059,
+    "runtime_sec": 0.6527
+  },
+  {
+    "lambda_assignment": 50.0,
+    "lambda_capacity": 100.0,
+    "qaoa_objective": 6054.17,
+    "optimality_gap": 0.29,
+    "feasible_probability": 0.002,
+    "runtime_sec": 0.8559
+  },
+  {
+    "lambda_assignment": 100.0,
+    "lambda_capacity": 20.0,
+    "qaoa_objective": 6142.99,
+    "optimality_gap": 89.11,
+    "feasible_probability": 0.0029,
+    "runtime_sec": 0.746
+  },
+  {
+    "lambda_assignment": 100.0,
+    "lambda_capacity": 50.0,
+    "qaoa_objective": 6080.3,
+    "optimality_gap": 26.42,
+    "feasible_probability": 0.0029,
+    "runtime_sec": 0.7769
+  },
+  {
+    "lambda_assignment": 100.0,
+    "lambda_capacity": 100.0,
+    "qaoa_objective": 6054.17,
+    "optimality_gap": 0.29,
+    "feasible_probability": 0.0029,
+    "runtime_sec": 0.7678
+  },
+  {
+    "lambda_assignment": 200.0,
+    "lambda_capacity": 20.0,
+    "qaoa_objective": 6080.3,
+    "optimality_gap": 26.42,
+    "feasible_probability": 0.0059,
+    "runtime_sec": 0.8862
+  },
+  {
+    "lambda_assignment": 200.0,
+    "lambda_capacity": 50.0,
+    "qaoa_objective": 6142.99,
+    "optimality_gap": 89.11,
+    "feasible_probability": 0.001,
+    "runtime_sec": 0.6975
+  },
+  {
+    "lambda_assignment": 200.0,
+    "lambda_capacity": 100.0,
+    "qaoa_objective": 6053.88,
+    "optimality_gap": 0.0,
+    "feasible_probability": 0.002,
+    "runtime_sec": 0.7492
+  }
+]

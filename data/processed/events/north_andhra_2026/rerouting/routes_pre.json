@@ -1,0 +1,56 @@
+{
+  "Kalingapatnam": {
+    "Calingapatnam": {
+      "path": [
+        "HAB_581561",
+        "SHELTER_Andhra-CycloneShelters.44"
+      ],
+      "cost": 2.4,
+      "transit_time_min": 2.0
+    },
+    "Bandravanipeta": {
+      "path": [
+        "HAB_581561",
+        "SHELTER_Andhra-CycloneShelters.46"
+      ],
+      "cost": 2.83,
+      "transit_time_min": 2.36
+    }
+  },
+  "Bandaruvani Peta": {
+    "Calingapatnam": {
+      "path": [
+        "HAB_581562",
+        "SHELTER_Andhra-CycloneShelters.44"
+      ],
+      "cost": 4.76,
+      "transit_time_min": 3.96
+    },
+    "Bandravanipeta": {
+      "path": [
+        "HAB_581562",
+        "SHELTER_Andhra-CycloneShelters.46"
+      ],
+      "cost": 5.08,
+      "transit_time_min": 4.23
+    }
+  },
+  "Vatsavalasa": {
+    "Calingapatnam": {
+      "path": [
+        "HAB_581555",
+        "SHELTER_Andhra-CycloneShelters.44"
+      ],
+      "cost": 4.08,
+      "transit_time_min": 3.4
+    },
+    "Bandravanipeta": {
+      "path": [
+        "HAB_581555",
+        "SHELTER_Andhra-CycloneShelters.46"
+      ],
+      "cost": 6.93,
+      "transit_time_min": 5.77
+    }
+  }
+}

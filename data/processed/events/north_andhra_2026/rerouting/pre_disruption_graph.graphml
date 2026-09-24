@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d26" for="edge" attr.name="risk_weighted_cost" attr.type="double" />
+  <key id="d25" for="edge" attr.name="provenance" attr.type="string" />
+  <key id="d24" for="edge" attr.name="disrupted" attr.type="boolean" />
+  <key id="d23" for="edge" attr.name="baseline_flood_risk" attr.type="double" />
+  <key id="d22" for="edge" attr.name="mean_elevation_m" attr.type="double" />
+  <key id="d21" for="edge" attr.name="bridge" attr.type="boolean" />
+  <key id="d20" for="edge" attr.name="travel_time_sec" attr.type="double" />
+  <key id="d19" for="edge" attr.name="speed_kph" attr.type="double" />
+  <key id="d18" for="edge" attr.name="road_class" attr.type="string" />
+  <key id="d17" for="edge" attr.name="length_m" attr.type="double" />
+  <key id="d16" for="node" attr.name="population" attr.type="long" />
+  <key id="d15" for="node" attr.name="elevation_m" attr.type="double" />
+  <key id="d14" for="node" attr.name="utm_northing" attr.type="double" />
+  <key id="d13" for="node" attr.name="utm_easting" attr.type="double" />
+  <key id="d12" for="node" attr.name="latitude" attr.type="double" />
+  <key id="d11" for="node" attr.name="longitude" attr.type="double" />
+  <key id="d10" for="node" attr.name="facility_type" attr.type="string" />
+  <key id="d9" for="node" attr.name="capacity" attr.type="long" />
+  <key id="d8" for="node" attr.name="district" attr.type="string" />
+  <key id="d7" for="node" attr.name="mandal" attr.type="string" />
+  <key id="d6" for="node" attr.name="name" attr.type="string" />
+  <key id="d5" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d4" for="graph" attr.name="parent_dataset" attr.type="string" />
+  <key id="d3" for="graph" attr.name="event_id" attr.type="string" />
+  <key id="d2" for="graph" attr.name="geographic_crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d0" for="graph" attr.name="name" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="SHELTER_Andhra-CycloneShelters.142">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Kotha Dibbalapalem</data>
+      <data key="d7">Etcherla</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">83.87598</data>
+      <data key="d12">18.19204002</data>
+      <data key="d13">804231.0751203191</data>
+      <data key="d14">2013817.5612810191</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.211">
+      <data key="d5">SHELTER</data>
+      <data key="d6">srikurmamam</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">84.00516635</data>
+      <data key="d12">18.27033041</data>
+      <data key="d13">817764.3702978897</data>
+      <data key="d14">2022708.4913586213</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.143">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Rallapeta</data>
+      <data key="d7">Etcherla</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">83.87342</data>
+      <data key="d12">18.18956002</data>
+      <data key="d13">803964.389143021</data>
+      <data key="d14">2013538.6499701706</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Bandravanipeta</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">84.12646111</data>
+      <data key="d12">18.32535836</data>
+      <data key="d13">830495.5700931908</data>
+      <data key="d14">2029019.6191251958</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.37">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Ch. Kovvada</data>
+      <data key="d7">Ranastalam</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">83.73761944</data>
+      <data key="d12">18.12625835</data>
+      <data key="d13">789694.11978964</data>
+      <data key="d14">2006308.695961519</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="HAB_581561">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Kalingapatnam</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">4470</data>
+      <data key="d11">84.126</data>
+      <data key="d12">18.336</data>
+      <data key="d13">830426.5400677476</data>
+      <data key="d14">2030197.5879543186</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="HAB_581558">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Tonangi</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">1650</data>
+      <data key="d11">84.081</data>
+      <data key="d12">18.324</data>
+      <data key="d13">825688.6896881725</data>
+      <data key="d14">2028787.1598338378</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="HAB_581420">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Baruva</data>
+      <data key="d7">Sompeta</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">4620</data>
+      <data key="d11">84.588</data>
+      <data key="d12">18.884</data>
+      <data key="d13">878094.2179777874</data>
+      <data key="d14">2091827.530368166</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.52">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Kotha Mukkam</data>
+      <data key="d7">Ranastalam</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">83.78354167</data>
+      <data key="d12">18.14867502</data>
+      <data key="d13">794519.1028694089</data>
+      <data key="d14">2008864.1475909061</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.49">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Ragupalem</data>
+      <data key="d7">Laveru</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">83.76794722</data>
+      <data key="d12">18.16692502</data>
+      <data key="d13">792837.5997184835</data>
+      <data key="d14">2010860.267935954</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="HAB_581562">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Bandaruvani Peta</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">1842</data>
+      <data key="d11">84.108</data>
+      <data key="d12">18.318</data>
+      <data key="d13">828556.4230239103</data>
+      <data key="d14">2028171.0807712267</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Calingapatnam</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">84.11685278</data>
+      <data key="d12">18.33376392</data>
+      <data key="d13">829463.1257051507</data>
+      <data key="d14">2029933.2913587308</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="HAB_581450">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Polaki Coastal</data>
+      <data key="d7">Polaki</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">2930</data>
+      <data key="d11">84.182</data>
+      <data key="d12">18.401</data>
+      <data key="d13">836224.6138694149</data>
+      <data key="d14">2037500.8642637318</data>
+      <data key="d15">4.5</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.213">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Bhagiradhapuram</data>
+      <data key="d7">Etcherla</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">83.86299216</data>
+      <data key="d12">18.1960961</data>
+      <data key="d13">802849.2327247022</data>
+      <data key="d14">2014245.2588752168</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.60">
+      <data key="d5">SHELTER</data>
+      <data key="d6">MN Peta</data>
+      <data key="d7">Vajrapukothuru</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">84.43073889</data>
+      <data key="d12">18.66848892</data>
+      <data key="d13">861967.1004797877</data>
+      <data key="d14">2067618.8727549883</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="HAB_581552">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Salihundam</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">2780</data>
+      <data key="d11">84.05</data>
+      <data key="d12">18.341</data>
+      <data key="d13">822377.645340495</data>
+      <data key="d14">2030614.9753308129</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="HAB_581502">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Singupuram</data>
+      <data key="d7">Srikakulam</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">3890</data>
+      <data key="d11">83.925</data>
+      <data key="d12">18.285</data>
+      <data key="d13">809255.5540883248</data>
+      <data key="d14">2024195.4881739395</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="HAB_581410">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Bhavanapadu</data>
+      <data key="d7">Santhabommali</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">3410</data>
+      <data key="d11">84.345</data>
+      <data key="d12">18.572</data>
+      <data key="d13">853112.2155061981</data>
+      <data key="d14">2056756.8505355427</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="HAB_581555">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Vatsavalasa</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">2115</data>
+      <data key="d11">84.115</data>
+      <data key="d12">18.349</data>
+      <data key="d13">829238.2210174331</data>
+      <data key="d14">2031617.6687262785</data>
+      <data key="d15">8.0</data>
+    </node>
+    <node id="SHELTER_Andhra-CycloneShelters.36">
+      <data key="d5">SHELTER</data>
+      <data key="d6">Jagannadapuram</data>
+      <data key="d7">Ranastalam</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d9">1000</data>
+      <data key="d10">DEDICATED_MPCS</data>
+      <data key="d11">83.76104444</data>
+      <data key="d12">18.13989724</data>
+      <data key="d13">792151.8282625382</data>
+      <data key="d14">2007856.1514018478</data>
+      <data key="d15">10.0</data>
+    </node>
+    <node id="HAB_581549">
+      <data key="d5">HABITATION</data>
+      <data key="d6">Ampolu</data>
+      <data key="d7">Gara</data>
+      <data key="d8">Srikakulam</data>
+      <data key="d16">3210</data>
+      <data key="d11">84.072</data>
+      <data key="d12">18.361</data>
+      <data key="d13">824667.3528825511</data>
+      <data key="d14">2032869.5076441758</data>
+      <data key="d15">8.0</data>
+    </node>
+    <edge source="SHELTER_Andhra-CycloneShelters.142" target="HAB_581502">
+      <data key="d17">11530.25</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1383.63</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1660.36</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.211" target="HAB_581502">
+      <data key="d17">8637.77</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1036.53</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1243.84</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.46" target="HAB_581561">
+      <data key="d17">1179.99</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">141.6</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">169.92</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.46" target="HAB_581562">
+      <data key="d17">2116.67</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">254.0</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">304.8</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.46" target="HAB_581555">
+      <data key="d17">2886.31</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">346.36</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">415.63</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.46" target="HAB_581549">
+      <data key="d17">6984.97</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">838.2</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1005.84</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.46" target="HAB_581552">
+      <data key="d17">8273.2</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">992.78</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1191.34</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.46" target="HAB_581558">
+      <data key="d17">4812.5</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">577.5</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">693.0</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.46" target="HAB_581450">
+      <data key="d17">10234.91</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1228.19</data>
+      <data key="d21">False</data>
+      <data key="d22">7.25</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1473.83</data>
+    </edge>
+    <edge source="HAB_581561" target="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d17">999.01</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">119.88</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">143.86</data>
+    </edge>
+    <edge source="HAB_581561" target="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d17">1179.99</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">141.6</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">169.92</data>
+    </edge>
+    <edge source="HAB_581558" target="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d17">3944.61</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">473.35</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">568.02</data>
+    </edge>
+    <edge source="HAB_581558" target="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d17">4812.5</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">577.5</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">693.0</data>
+    </edge>
+    <edge source="HAB_581420" target="SHELTER_Andhra-CycloneShelters.60">
+      <data key="d17">29088.54</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">3490.62</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">4188.74</data>
+    </edge>
+    <edge source="HAB_581562" target="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d17">1981.79</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">237.81</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">285.37</data>
+    </edge>
+    <edge source="HAB_581562" target="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d17">2116.67</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">254.0</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">304.8</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.44" target="HAB_581561">
+      <data key="d17">999.01</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">119.88</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">143.86</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.44" target="HAB_581562">
+      <data key="d17">1981.79</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">237.81</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">285.37</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.44" target="HAB_581555">
+      <data key="d17">1699.33</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">203.92</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">244.7</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.44" target="HAB_581549">
+      <data key="d17">5623.24</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">674.79</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">809.75</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.44" target="HAB_581552">
+      <data key="d17">7118.2</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">854.18</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1025.02</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.44" target="HAB_581558">
+      <data key="d17">3944.61</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">473.35</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">568.02</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.44" target="HAB_581450">
+      <data key="d17">10148.2</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1217.78</data>
+      <data key="d21">False</data>
+      <data key="d22">7.25</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1461.34</data>
+    </edge>
+    <edge source="HAB_581450" target="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d17">10148.2</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1217.78</data>
+      <data key="d21">False</data>
+      <data key="d22">7.25</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1461.34</data>
+    </edge>
+    <edge source="HAB_581450" target="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d17">10234.91</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1228.19</data>
+      <data key="d21">False</data>
+      <data key="d22">7.25</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1473.83</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.60" target="HAB_581420">
+      <data key="d17">29088.54</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">3490.62</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">4188.74</data>
+    </edge>
+    <edge source="SHELTER_Andhra-CycloneShelters.60" target="HAB_581410">
+      <data key="d17">14014.01</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1681.68</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">2018.02</data>
+    </edge>
+    <edge source="HAB_581552" target="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d17">7118.2</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">854.18</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1025.02</data>
+    </edge>
+    <edge source="HAB_581552" target="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d17">8273.2</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">992.78</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1191.34</data>
+    </edge>
+    <edge source="HAB_581502" target="SHELTER_Andhra-CycloneShelters.211">
+      <data key="d17">8637.77</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1036.53</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1243.84</data>
+    </edge>
+    <edge source="HAB_581502" target="SHELTER_Andhra-CycloneShelters.142">
+      <data key="d17">11530.25</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1383.63</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1660.36</data>
+    </edge>
+    <edge source="HAB_581410" target="SHELTER_Andhra-CycloneShelters.60">
+      <data key="d17">14014.01</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">1681.68</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">2018.02</data>
+    </edge>
+    <edge source="HAB_581555" target="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d17">1699.33</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">203.92</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">244.7</data>
+    </edge>
+    <edge source="HAB_581555" target="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d17">2886.31</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">346.36</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">415.63</data>
+    </edge>
+    <edge source="HAB_581549" target="SHELTER_Andhra-CycloneShelters.44">
+      <data key="d17">5623.24</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">674.79</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">809.75</data>
+    </edge>
+    <edge source="HAB_581549" target="SHELTER_Andhra-CycloneShelters.46">
+      <data key="d17">6984.97</data>
+      <data key="d18">tertiary</data>
+      <data key="d19">30.0</data>
+      <data key="d20">838.2</data>
+      <data key="d21">False</data>
+      <data key="d22">9.0</data>
+      <data key="d23">0.1</data>
+      <data key="d24">False</data>
+      <data key="d25">OpenStreetMap / MoRTH AP Road Corridor [METRIC_UTM_CALCULATED]</data>
+      <data key="d26">1005.84</data>
+    </edge>
+    <data key="d0">Andhra_Pradesh_Coastal_Evacuation_Road_Network</data>
+    <data key="d1">EPSG:32644</data>
+    <data key="d2">EPSG:4326</data>
+    <data key="d3">EVENT_NORTH_ANDHRA_DEEP_DEPRESSION_2026</data>
+    <data key="d4">ap_road_graph_statewide</data>
+  </graph>
+</graphml>

@@ -1,0 +1,4 @@
+Method,Pre_Disruption_Objective,Post_Disruption_Objective,Feasibility,Assignment_Changes,Solve_Time_ms,T_reroute_ms
+Exact MILP,11.56,11.99,YES,1,28.96,30.73
+Cold-Start QAOA,11.56,11.99,YES,1,457.92,460.11
+Warm-Start QAOA,11.56,11.99,YES,1,391.82,394.01

@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-09-24T13:44:53Z",
+  "test_name": "3x2_kalingapatnam_smoke_test",
+  "num_qubits": 6,
+  "input": {
+    "zones": [
+      "Kalingapatnam",
+      "Bandaruvani Peta",
+      "Vatsavalasa"
+    ],
+    "demands": [
+      450.0,
+      350.0,
+      400.0
+    ],
+    "shelters": [
+      "Calingapatnam",
+      "Bandravanipeta"
+    ],
+    "capacities": [
+      1000.0,
+      1000.0
+    ],
+    "cost_matrix": [
+      [
+        2.06,
+        2.43
+      ],
+      [
+        4.08,
+        4.35
+      ],
+      [
+        3.5,
+        5.94
+      ]
+    ]
+  },
+  "exact_milp": {
+    "objective": 9.91,
+    "solution": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "runtime_ms": 24.849999987054616
+  },
+  "qubo_verification": {
+    "num_vars": 6,
+    "offset": 451.0,
+    "best_brute_force_energy": 9.909999999999968,
+    "energy_gap_vs_milp": 3.197442310920451e-14,
+    "penalty_sufficiency_verified": true
+  },
+  "uniform_random": {
+    "feasibility_rate": 0.094,
+    "final_objective": 9.91,
+    "runtime_ms": 47.0
+  },
+  "simulated_annealing": {
+    "final_objective": 12.35,
+    "steps": 256,
+    "runtime_ms": 3.96
+  },
+  "qaoa": {
+    "p": 1,
+    "shots": 2048,
+    "seed": 42,
+    "circuit_depth": 9,
+    "two_qubit_gates": 0,
+    "evaluations": 18,
+    "optimal_parameters": [
+      2.43108,
+      1.42202
+    ],
+    "p_feasible": 0.188,
+    "final_objective": 9.91,
+    "optimality_gap": 0.0,
+    "runtime_sec": 0.4023
+  }
+}

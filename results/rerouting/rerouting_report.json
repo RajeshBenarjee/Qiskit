@@ -1,0 +1,93 @@
+{
+  "experiment_name": "Stage8_Dynamic_Rerouting_Experiment",
+  "tag": "CONTROLLED DISRUPTION EXPERIMENT",
+  "timestamp": "2026-09-24T14:13:55Z",
+  "disrupted_corridor": {
+    "from": "HAB_581561",
+    "to": "SHELTER_Andhra-CycloneShelters.44",
+    "reason": "Simulated flood inundation and storm surge breach along coastal road feeder link"
+  },
+  "plan_A_pre_disruption": {
+    "objective": 11.56,
+    "solution_vector": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "assignments": {
+      "Kalingapatnam": "Calingapatnam",
+      "Bandaruvani Peta": "Bandravanipeta",
+      "Vatsavalasa": "Calingapatnam"
+    },
+    "optimal_parameters": [
+      2.93044,
+      1.37006
+    ]
+  },
+  "plan_B_post_disruption": {
+    "milp": {
+      "objective": 11.99,
+      "solution_vector": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "assignments": {
+        "Kalingapatnam": "Bandravanipeta",
+        "Bandaruvani Peta": "Bandravanipeta",
+        "Vatsavalasa": "Calingapatnam"
+      },
+      "churn": 1,
+      "solve_time_sec": 0.028961299976799637,
+      "t_reroute_sec": 0.030733299976214767
+    },
+    "cold_start_qaoa": {
+      "objective": 11.99,
+      "solution_vector": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "churn": 1,
+      "evaluations": 20,
+      "solve_time_sec": 0.45792090002214536,
+      "t_reroute_sec": 0.460109500026796
+    },
+    "warm_start_qaoa": {
+      "objective": 11.99,
+      "solution_vector": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "churn": 1,
+      "evaluations": 18,
+      "solve_time_sec": 0.3918167999945581,
+      "t_reroute_sec": 0.39400539999920875
+    }
+  },
+  "latency_profile_ms": {
+    "t_detect": 1.0,
+    "t_graph_update": 0.2557000261731446,
+    "t_path_recompute": 0.2825999981723726,
+    "t_qubo_rebuild": 0.15029998030513525,
+    "t_solve_milp": 28.961299976799637,
+    "t_solve_cold_qaoa": 457.92090002214536,
+    "t_solve_warm_qaoa": 391.8167999945581,
+    "t_decode": 0.08339999476447701,
+    "t_reroute_total_milp": 30.733299976214767,
+    "t_reroute_total_warm_qaoa": 394.00539999920875
+  }
+}
