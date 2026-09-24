@@ -1,0 +1,12 @@
+streamlit
+folium
+streamlit-folium
+pandas
+numpy
+networkx
+pyproj
+shapely
+scipy
+qiskit
+qiskit-aer
+pulp
